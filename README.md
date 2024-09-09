@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-This project is part of the FreeCodeCamp Relational Database certification. The objective was to build a PostgreSQL database to store user information and their game results and create a Bash script to handle the game logic and interact with the database.
+This project is part of the FreeCodeCamp Relational Database certification. The objective was to build a PostgreSQL database to store user information and game results, as well as create a Bash script to handle the game logic and interact with the database.
 
 ## Project Structure
 
@@ -13,6 +13,7 @@ This project is part of the FreeCodeCamp Relational Database certification. The 
 - `number_guess.sh`: A Bash script to play the number guessing game, store user data, and track game results.
 
 ## Database Schema
+![diagram-export-09-09-2024-16_32_56](https://github.com/user-attachments/assets/b4a9aa87-59c4-4884-a45c-edd4d3489539)
 
 The database consists of the following tables:
 
